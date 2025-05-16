@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  Developing what should not be developed.
+  We are developing things that should not be developed.
 </p>
 <p align="center">
   <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-white?style=for-the-badge&logo=discord&logoColor=white&logoSize=64&label=%20&labelColor=5c32a8&color=242323&link=https%3A%2F%2Fdiscord.gg%2FMEBkvJbe4P">

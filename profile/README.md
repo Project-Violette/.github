@@ -17,8 +17,9 @@
   Shards:
 </h3>
 <p align="center">
-  <a href="https://github.com/TheVoid-KTS2k">@TheVoid-KTS2k</a>
-  <a href="https://github.com/Project-Delta-KTS2k">@Project-Delta-KTS2k</a>
+  <a href="https://github.com/TheVoid-KTS2k">@TheVoid-KTS2k</a> - For utilities or other projects that cannot be added to the main repository
+  <br>
+  <a href="https://github.com/Project-Delta-KTS2k">@Project-Delta-KTS2k</a> - Only for Nionim`s projects
 </p>
 
 ---

@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://discord.gg/MEBkvJbe4P">
+        <img src="img/main/P_Vio-toBackground.png" alt="Project~Violette">
+    </a>
+</p>
+
 <H1 align="center">
   Project~Violette
 </H1>

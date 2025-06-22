@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://discord.gg/MEBkvJbe4P">
-        <img src="img/main/P_Vio-toBackground.png" alt="Project~Violette">
+        <img src="img/main/P_Vio-toBackground-GithubProfile.png" alt="Project~Violette">
     </a>
 </p>
 
